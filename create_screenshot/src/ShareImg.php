@@ -5,6 +5,7 @@
  */
 
 namespace teg1c\createScreenShot;
+namespace iBrand\Miniprogram\Poster;
 use Anam\PhantomMagick\Converter;
 class ShareImg
 {
