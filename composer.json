@@ -8,7 +8,7 @@
             "email": "i@izww.cn"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "anam/phantommagick": "~2.0",
         "anam/phantomjs-linux-x86-binary": "~2.1.1"
