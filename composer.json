@@ -1,0 +1,22 @@
+{
+    "name": "teg1c/create_screenshot",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "teg1c",
+            "email": "i@izww.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "anam/phantommagick": "~2.0",
+        "anam/phantomjs-linux-x86-binary": "~2.1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "teg1c\\createScreenShot\\": "src/"
+        }
+    },
+    "prefer-stable": true
+}
